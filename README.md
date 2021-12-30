@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Juseong Lee.
+- 🌱 I’m a Ph.D. candidate at TU Delft.
+- 👀 I’m interested in optimal decision making based on modeling and simulation.
+- Domain of interest: aircraft maintenance, space system design, logistics, etc.
+- 💞️ I’m looking for research positions on optimization and data analysis.
+- 📫 You can read more in my blog (https://juseongleeresearch.wordpress.com/).
