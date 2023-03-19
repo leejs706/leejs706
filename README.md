@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Juseong Lee.
-- 🌱 I’m a Ph.D. candidate at TU Delft, Faculty of Aerospace Engineering.
-- 👀 I’m interested in optimization of complex processes using modeling and simulation.
-- For example, predictive maintenance for aircraft systems, multi-disciplinary design of space systems, multi-objective logistics problems.        
-- 💞️ I’m looking for research positions on optimization and data analysis.
+- 🌱 I’m an Associate Professor at Eindhoven University of Technology, Department of Industrial Engineering and Innovation Science.
+- 👀 I’m interested in maintenance of complex systems --- modeling, simulation, design, and optimization.
 - 📫 You can read my CV and papers from here: https://juseonglee.com/.
