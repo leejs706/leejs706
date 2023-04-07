@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Juseong Lee.
 - 🌱 I’m an Assistant Professor at Eindhoven University of Technology, Department of Industrial Engineering and Innovation Science.
-- 👀 I’m interested in predictive maintenance of complex systems:
--       data-driven diagnostics, failure predictions, maintenance planning, maintenance policy, etc.
+- 👀 I’m interested in predictive maintenance of complex systems: diagnostics, prognostics, planning, optimization, modeling and simulation.
 - 📫 You can read my CV and papers from here: https://juseonglee.com/.
